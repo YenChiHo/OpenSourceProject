@@ -5,7 +5,7 @@ For Open Source Project Course in National Cheng Kung University
 
 Huei try to learn MARKUP
 ========================
-```java
+```c
 #include<iostream>
 using namspace std;
 
