@@ -10,6 +10,7 @@ public class Testing {
 	 
 	public static void askingQuestion(){
 		  System.out.println("Why still cannot connect to github but show successful in eclipse");
+		  System.out.println("No library include, how to add?")
 	  }
 	
 	public static void successMsg(){
