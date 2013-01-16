@@ -4,7 +4,7 @@
 
 ***
 組員<br/>
-姓名  系級	學號	手機	Email<br/>
+姓名     系級 	學號     	手機	         Email<br/>
 陳銘輝	工資102 	H34985018	0983786425	 huei90@gmail.com<br/>
 何諺錡	工資102	B34981019 	0975092065	 yenchiho@gmail.com<br/>
 詹致遠	資訊102	F74981094	0910045952	 fivil52@gmail.com<br/>
@@ -29,7 +29,8 @@ RPG其實就像真實生活環境，在四處探索這個世界的同時，總�
 
 
 提案內容
-製作Android或網頁版RPG遊戲，根據手機的GPS Tracking，確定你到達的地方為何處，到了特定的幾個場所之後就會增加經驗值升級，（此外可以和廠商合作，升級之後可以得到類似打卡的特定優惠，或是贈送小贈品等）。
+製作Android或網頁版RPG遊戲，根據手機的GPS Tracking，記錄並且確定你到達的地方為何處，到了特定的幾個場所之後就會增加經驗值升級。
+（此外可以和廠商合作，升級之後可以得到類似打卡的特定優惠，或是贈送小贈品等）。
 初期，由於在開放的公共建設如古蹟、校園等地理位置與觀光資料的取得相對容易，並且有較適合此遊戲概念的戶外開放空間（GPS Tracker在戶外比較容易成功），因此希望先從古蹟與校園地理位置做起，進而促進古蹟、校園的活化與參觀人氣。
 
 因此我們把可以發展的RPG地圖做以下分類：
@@ -37,7 +38,7 @@ RPG其實就像真實生活環境，在四處探索這個世界的同時，總�
 -校園地圖（成大地圖 - 特殊關卡為全校屋頂或全校地下室但收訊問題須克服）
 -美食地圖RPG（台南美食地圖 - 導入企業合作相關--王品集團地圖）
 後續可以接著繼續做的相關RPG地圖
--玩樂地圖 (湯姆雄地圖、國賓影城地圖、威秀影城地圖、運動場地圖）
+-玩樂地圖 (湯姆熊地圖、國賓影城地圖、威秀影城地圖、運動場地圖）
 -廁所地圖
 -大眾運輸地圖（公車地圖、捷運地圖、火車地圖、飛機地圖、單車地圖）
 -風景景點地圖（一般公園地圖、國家公園地圖）
@@ -45,8 +46,9 @@ RPG其實就像真實生活環境，在四處探索這個世界的同時，總�
 ## 參考資料相關內容
 
 ### GPS Tracking部分，主要參考Open GPSTracker與Google My Track
-1.http://code.google.com/p/open-gpstracker/  Google 開放原始碼GPS Tracker<br/>
-2.http://code.google.com/p/mytracks/ My Track Open Source Source Code<br/>
+1.http://code.google.com/p/mytracks/ My Track Open Source Source Code<br/>
+2.http://code.google.com/p/open-gpstracker/  Google 開放原始碼GPS Tracker<br/>
+
 ### 實做部分，參考門牌系統地理定位
 3.http://www.opendata.tw/ 台灣開放資料網<br/>
 ### 概念參考迷霧世界遊戲
