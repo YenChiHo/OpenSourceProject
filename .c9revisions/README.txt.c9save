@@ -1,0 +1,2 @@
+{"ts":1351075137483,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"<<<<<<< HEAD\n1.Map RPG\r\n2.Just for testing\n=======\nI want to know\n>>>>>>> hi\n\nTry"]],"start1":0,"start2":0,"length1":0,"length2":81}]],"length":81}
+{"contributors":[],"silentsave":false,"ts":1351075165242,"patch":[[{"diffs":[[0," RPG"],[-1,"\r"],[0,"\n2.J"]],"start1":18,"start2":18,"length1":9,"length2":8},{"diffs":[[0," hi\n\nTry"],[1,"\n\ncomming>push by using Cloud9\n\nunwork in eclipse = ="]],"start1":72,"start2":72,"length1":8,"length2":61}]],"length":133,"saved":false}
