@@ -45,9 +45,9 @@ RPG其實就像真實生活環境，在四處探索這個世界的同時，總�
 
 ## 參考資料相關內容
 
-### GPS Tracking部分，主要參考Open GPSTracker與Google My Track
+### GPS Tracking部分，主要參考Google My Track與使用OpenStreetmap
 1.http://code.google.com/p/mytracks/ My Track Open Source Source Code<br/>
-2.http://code.google.com/p/open-gpstracker/  Google 開放原始碼GPS Tracker<br/>
+2.http://planet.openstreetmap.org/  開放原始碼地圖圖資<br/>
 
 ### 實做部分，參考門牌系統地理定位
 3.http://www.opendata.tw/ 台灣開放資料網<br/>
