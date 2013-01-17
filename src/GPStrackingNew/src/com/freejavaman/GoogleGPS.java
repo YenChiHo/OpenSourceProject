@@ -115,15 +115,15 @@ public class GoogleGPS extends MapActivity implements LocationListener {
   updateMapView(location);
  }
 
- //實作LocationListener需提供
+ //實作LocationListener
  public void onProviderDisabled(String provider) {
  }
 
- //實作LocationListener需提供
+ //實作LocationListener
  public void onProviderEnabled(String provider) {
  }
 
- //實作LocationListener需提供
+ //實作LocationListener
  public void onStatusChanged(String provider, int status, Bundle extras) {
  }
  
