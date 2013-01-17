@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+ 
+ <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+  
+  <Button  
+    android:id="@+id/zoomInBtn"
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content" 
+    android:text="放大"/>
+  
+  <Button  
+    android:id="@+id/zoomOutBtn"
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content" 
+    android:text="縮小"/>
+        
+ </LinearLayout>
+ 
+ <com.google.android.maps.MapView
+     android:id="@+id/mapView"
+     android:layout_width="fill_parent"
+     android:layout_height="fill_parent"
+     android:apiKey="06wIwyVMbGLOehuQjitnHfcxU2UrNaFpoBcpE4A"/>
+                                    
+</LinearLayout>
