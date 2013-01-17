@@ -6,13 +6,6 @@ import nl.sogeti.android.gpstracker.tests.utils.MockGPSLoggerDriver;
 import android.test.AndroidTestCase;
 import android.test.suitebuilder.annotation.SmallTest;
 
-/**
- * ????
- *
- *
- * @version $Id$
- * @author rene (c) Jan 22, 2009, Sogeti B.V.
- */
 public class MockGPSLoggerServiceTest extends AndroidTestCase
 {
    MockGPSLoggerDriver service;
