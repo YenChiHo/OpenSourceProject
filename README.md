@@ -5,10 +5,10 @@
 ***
 組員<br/>
 姓名     系級 	學號     	手機	         Email<br/>
-陳銘輝	工資102 	H34985018	0983786425	 huei90@gmail.com<br/>
-何諺錡	工資102	B34981019 	0975092065	 yenchiho@gmail.com<br/>
-詹致遠	資訊102	F74981094	0910045952	 fivil52@gmail.com<br/>
-莫超雄	物理101 	C24971241	0988276613	 c2497124@mail.ncku.edu.tw<br/>
+陳銘輝	工資102 	H34985018		 <br/>
+何諺錡	工資102	B34981019 		 yenchiho@gmail.com<br/>
+詹致遠	資訊102	F74981094		 fivil52@gmail.com<br/>
+莫超雄	物理101 	C24971241		 c2497124@mail.ncku.edu.tw<br/>
 
 ***
 
